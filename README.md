@@ -1,3 +1,5 @@
+
+![Uploading giphy.gif…]()
 <h1 align="center">Hi 👋, I'm Çağrı Kandemir</h1>
 <h3 align="center">A Junior developer from Turkey</h3>
 
