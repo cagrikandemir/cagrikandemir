@@ -1,4 +1,4 @@
-[! [MasterHead](https://camo.githubusercontent.com/e5b0ed40c9fd5a1601c3eab1820cd4a4e9dee27d0525275782aed3bde0d06265/68747470733a2f2f6d656469612e74656e6f722e636f6d2f326658626e36587474305541414141432f736f6674776172652d736f6674776172652d646576656c6f706d656e742e676966)
+[! [MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprbXoyNGVndGdvNmtnOTJiNzU3a2FxOTI1eHB1OXd0bDk4ZGE3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Çağrı Kandemir</h1>
 <h3 align="center">A Junior developer from Turkey</h3>
 
