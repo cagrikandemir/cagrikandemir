@@ -1,5 +1,4 @@
-
-![Uploading giphy.gif…]()
+![giphy](https://github.com/cagrikandemir/cagrikandemir/assets/124529286/11f8bb8b-31a8-440e-919a-3fa6ac4e9694)
 <h1 align="center">Hi 👋, I'm Çağrı Kandemir</h1>
 <h3 align="center">A Junior developer from Turkey</h3>
 
