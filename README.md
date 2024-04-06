@@ -1,5 +1,5 @@
 
-[![MasterHead] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprbXoyNGVndGdvNmtnOTJiNzU3a2FxOTI1eHB1OXd0bDk4ZGE3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![giphy](https://github.com/cagrikandemir/cagrikandemir/assets/124529286/2c79d869-9d94-40c5-b54b-f62b616e42d5)
 <h1 align="center">Hi 👋, I'm Çağrı Kandemir</h1>
 <h3 align="center">A Junior developer from Turkey</h3>
 
